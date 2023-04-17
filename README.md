@@ -1,9 +1,9 @@
 # FRT_Project
 FRT Project Demo
 
-# ✨  Satish Portfolio  ✨
+# ✨ Satish Portfolio ✨
 
-Portfolio Project
+#Portfolio Project
 This is a portfolio project created to showcase my skills, experience, and projects to potential employers, clients, and collaborators. 
 The project is hosted on GitHub and can be accessed through the following links:
 
@@ -13,10 +13,11 @@ The project is hosted on GitHub and can be accessed through the following links:
 
 
 #Table of Contents
+
 Home
 About
 Services
-Contact
+Contact Us
 Portfolio Bot
 
 
@@ -42,7 +43,6 @@ The Services section outlines the services I offer, such as web development, App
 It also includes a pricing table that shows my rates and packages.
 
 ![image](https://user-images.githubusercontent.com/103049738/232610484-68a997a1-70cd-4e9c-a463-76b6bc01a2c1.png)
-
 
 
 #Contact
