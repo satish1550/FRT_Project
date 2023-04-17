@@ -52,7 +52,7 @@ I provide some information about my introduction, my biography, What I Do, My Fe
 ![image](https://user-images.githubusercontent.com/103049738/232609772-4b60a9c8-bd57-4d01-acbd-3c7465ca87c5.png)
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232609795-3b39335d-e9e8-4379-aa90-87963c1a2a4e.png)
+![image](https://user-images.githubusercontent.com/103049738/232615492-d0bfe660-a9a1-4b73-9798-c1acfdf47cf2.png)
 
 
 ## About Me
