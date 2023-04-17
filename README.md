@@ -2,7 +2,7 @@
 
 # ✨ Satish Portfolio ✨
 
-#Portfolio Project
+# Portfolio Project
 This is a portfolio project created to showcase my skills, experience, and projects to potential employers, clients, and collaborators. 
 The project is hosted on GitHub and can be accessed through the following links:
 
