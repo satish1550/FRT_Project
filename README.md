@@ -73,7 +73,7 @@ It also includes a pricing table that shows my rates and packages.
 ![image](https://user-images.githubusercontent.com/103049738/232610484-68a997a1-70cd-4e9c-a463-76b6bc01a2c1.png)
 
 
-## Contact
+## Contact Us
 
 In this section, I provide some contact information, such as my email address, LinkedIn profile, Twitter handle, or any other means of communication. 
 I can also include a contact form or a link to my resume. The purpose of this section is to encourage visitors to get in touch with me and start a conversation about potential opportunities, collaborations, or projects.
