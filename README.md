@@ -52,7 +52,7 @@ I provide some information about my introduction, my biography, What I Do, My Fe
 ![image](https://user-images.githubusercontent.com/103049738/232609772-4b60a9c8-bd57-4d01-acbd-3c7465ca87c5.png)
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232609795-3b39335d-e9e8-4379-aa90-87963c1a2a4e.png)
+![image](https://user-images.githubusercontent.com/103049738/232615492-d0bfe660-a9a1-4b73-9798-c1acfdf47cf2.png)
 
 
 ## About Me
@@ -73,7 +73,7 @@ It also includes a pricing table that shows my rates and packages.
 ![image](https://user-images.githubusercontent.com/103049738/232610484-68a997a1-70cd-4e9c-a463-76b6bc01a2c1.png)
 
 
-## Contact
+## Contact Us
 
 In this section, I provide some contact information, such as my email address, LinkedIn profile, Twitter handle, or any other means of communication. 
 I can also include a contact form or a link to my resume. The purpose of this section is to encourage visitors to get in touch with me and start a conversation about potential opportunities, collaborations, or projects.
