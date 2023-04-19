@@ -42,7 +42,7 @@ The project is hosted on GitHub and can be accessed through the following links:
 - Portfolio Bot
 
 
-## Home
+## ✨ Home
 
 The home page is the main landing page for the website, 
 and it features a hero section with a welcome message and a call-to-action button that leads to the portfolio section.
@@ -55,7 +55,7 @@ I provide some information about my introduction, my biography, What I Do, My Fe
 ![image](https://user-images.githubusercontent.com/103049738/232962417-296dfead-5f7c-421d-a5a5-759a650bcfb0.png)
 
 
-## About Me
+## ✨ About Me
 In this section, I provide some brief information about myself, my background, and my interests. 
 This could include my education, work experience, technical skills, personal projects, and other relevant details. 
 The purpose of this section is to give visitors a quick overview of who I am and what I do.
@@ -64,7 +64,7 @@ The purpose of this section is to give visitors a quick overview of who I am and
 ![image](https://user-images.githubusercontent.com/103049738/232962539-9cfce1a3-83cb-4dc6-b72f-e39417432a55.png)
 
 
-## Services
+## ✨ Services
 
 The Services section outlines the services I offer, such as web development, App development, Photography, Seo Marketing, Responsive design and Digital Marketing.
 It also includes a pricing table that shows my rates and packages.
@@ -76,7 +76,7 @@ It also includes a pricing table that shows my rates and packages.
 ![image](https://user-images.githubusercontent.com/103049738/232962702-123f75a1-11a2-46ee-a681-912e6cbe1cae.png)
 
 
-## Contact Us
+## ✨ Contact Us
 
 In this section, I provide some contact information, such as my email address, LinkedIn profile, Twitter handle, or any other means of communication. 
 I can also include a contact form or a link to my resume. The purpose of this section is to encourage visitors to get in touch with me and start a conversation about potential opportunities, collaborations, or projects.
@@ -86,7 +86,7 @@ The Contact Us page provides visitors with a way to get in touch with me. They c
 ![image](https://user-images.githubusercontent.com/103049738/232962824-3962d7a9-7c03-4773-b76d-8e5037044bd6.png)
 
 
-## Portfolio Bot
+## ✨ Portfolio Bot
 
 The Portfolio Bot is a chatbot that assists visitors with navigating my portfolio project. It uses natural language processing to understand user requests and provides appropriate responses. 
 Visitors can interact with the bot by typing in messages and receiving automated replies.
