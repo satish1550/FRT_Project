@@ -49,10 +49,10 @@ and it features a hero section with a welcome message and a call-to-action butto
 I provide some information about my introduction, my biography, What I Do, My Featured Skills, and My Work.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232609772-4b60a9c8-bd57-4d01-acbd-3c7465ca87c5.png)
+![image](https://user-images.githubusercontent.com/103049738/232962399-6242e10c-62c1-4353-80dc-eea666da5a4f.png)
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232615492-d0bfe660-a9a1-4b73-9798-c1acfdf47cf2.png)
+![image](https://user-images.githubusercontent.com/103049738/232962417-296dfead-5f7c-421d-a5a5-759a650bcfb0.png)
 
 
 ## About Me
@@ -61,7 +61,7 @@ This could include my education, work experience, technical skills, personal pro
 The purpose of this section is to give visitors a quick overview of who I am and what I do.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232609921-7012e899-26da-430f-a903-c9de8a72367f.png)
+![image](https://user-images.githubusercontent.com/103049738/232962539-9cfce1a3-83cb-4dc6-b72f-e39417432a55.png)
 
 
 ## Services
@@ -70,7 +70,10 @@ The Services section outlines the services I offer, such as web development, App
 It also includes a pricing table that shows my rates and packages.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232610484-68a997a1-70cd-4e9c-a463-76b6bc01a2c1.png)
+![image](https://user-images.githubusercontent.com/103049738/232962619-87ace1a4-fdc6-4d77-8bbc-fdd3167e144a.png)
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/103049738/232962702-123f75a1-11a2-46ee-a681-912e6cbe1cae.png)
 
 
 ## Contact Us
@@ -80,7 +83,7 @@ I can also include a contact form or a link to my resume. The purpose of this se
 The Contact Us page provides visitors with a way to get in touch with me. They can send me a message via a contact form or connect with me on social media. I am always open to new opportunities and collaborations.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232610982-96ef961b-70ce-40de-a944-189f6649f0cf.png)
+![image](https://user-images.githubusercontent.com/103049738/232962824-3962d7a9-7c03-4773-b76d-8e5037044bd6.png)
 
 
 ## Portfolio Bot
@@ -89,7 +92,10 @@ The Portfolio Bot is a chatbot that assists visitors with navigating my portfoli
 Visitors can interact with the bot by typing in messages and receiving automated replies.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232611180-7e757147-3779-4dec-955b-57319999b83a.png)
+![image](https://user-images.githubusercontent.com/103049738/232962915-02cc1ac3-2d43-4715-87df-a222ddda12d4.png)
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/103049738/232962921-bef987c6-1ae2-40c9-acbc-1847bc5a736b.png)
 
 
 ## Tech Stack
