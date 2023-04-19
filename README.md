@@ -92,7 +92,7 @@ The Portfolio Bot is a chatbot that assists visitors with navigating my portfoli
 Visitors can interact with the bot by typing in messages and receiving automated replies.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/103049738/232962915-02cc1ac3-2d43-4715-87df-a222ddda12d4.png)
+![image](https://user-images.githubusercontent.com/103049738/232963235-bab19f35-cb31-4a18-94e8-b6be5e76720a.png)
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/103049738/232962921-bef987c6-1ae2-40c9-acbc-1847bc5a736b.png)
