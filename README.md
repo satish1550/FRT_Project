@@ -55,7 +55,7 @@ I provide some information about my introduction, my biography, What I Do, My Fe
 ![image](https://user-images.githubusercontent.com/103049738/232962417-296dfead-5f7c-421d-a5a5-759a650bcfb0.png)
 
 
-## ✨ About Me
+## ✨ About
 In this section, I provide some brief information about myself, my background, and my interests. 
 This could include my education, work experience, technical skills, personal projects, and other relevant details. 
 The purpose of this section is to give visitors a quick overview of who I am and what I do.
