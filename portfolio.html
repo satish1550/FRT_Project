@@ -68,21 +68,6 @@
                 </div>
                 <!-- //search -->
 
-                <!-- toggle switch for light and dark theme -->
-                <div class="cont-ser-position">
-                    <nav class="navigation">
-                        <div class="theme-switch-wrapper">
-                            <label class="theme-switch" for="checkbox">
-                                <input type="checkbox" id="checkbox">
-                                <div class="mode-container">
-                                    <i class="gg-sun"></i>
-                                    <i class="gg-moon"></i>
-                                </div>
-                            </label>
-                        </div>
-                    </nav>
-                </div>
-                <!-- //toggle switch for light and dark theme -->
             </nav>
         </div>
     </header>
@@ -94,6 +79,24 @@
             src="https://webchat.botframework.com/embed/satish-6m4pwir?s=RyAjf111Dxo.FsZGeOxFf8Dj0nx180woNsOYQBXLYMN9N2_RoZiG0e4"
             style="min-width: 400px; width: 100%; min-height: 500px; "></iframe>
     </div>
+
+    <!-- /brands-->
+    <section class="brands py-md-5 py-4">
+        <div class="container py-lg-1">
+            <div class="align-items-center">
+                <div class="item">
+                    <h5 class="subtitle">This portfolio project is a website that serves as a showcase for an individual's skills,
+                        achievements, and experiences.
+                        The website includes various sections such as Home, about, services, contact, and Portfolio.
+
+                        To enhance user experience and interactivity, a portfolio bot can be integrated into the
+                        website. Using Azure Services,
+                        The bot can provide information about the individual's work, answer common questions.</h5>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //brands -->
 
     <!-- footer -->
     <footer class="text-center">
@@ -155,8 +158,98 @@
     <!-- //footer -->
 </body>
 
+<!-- Js scripts -->
+<!-- move top -->
+<button onclick="topFunction()" id="movetop" title="Go to top">
+    <span class="fas fa-level-up-alt" aria-hidden="true"></span>
+</button>
+<script>
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function () {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("movetop").style.display = "block";
+        } else {
+            document.getElementById("movetop").style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
+<!-- //move top -->
+
+<!-- common jquery plugin -->
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<!-- //common jquery plugin -->
+
+<!-- theme switch js (light and dark)-->
+<script src="assets/js/theme-change.js"></script>
+<!-- //theme switch js (light and dark)-->
+
 <!--search-bar-->
 <script src="assets/js/search.js"></script>
 <!--//search-bar-->
+
+<!--/owlcarousel-->
+<script src="assets/js/owl.carousel.js"></script>
+
+
+<!-- jQuery-Photo-filter-lightbox-portfolio-plugin -->
+<script src="assets/js/jquery-1.7.2.js"></script>
+<script src="assets/js/jquery.quicksand.js"></script>
+<script src="assets/js/script.js"></script>
+<script src="assets/js/jquery.prettyPhoto.js"></script>
+<!-- //jQuery-Photo-filter-lightbox-portfolio-plugin -->
+
+<!-- MENU-JS -->
+<script>
+    $(window).on("scroll", function () {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= 80) {
+            $("#site-header").addClass("nav-fixed");
+        } else {
+            $("#site-header").removeClass("nav-fixed");
+        }
+    });
+
+    //Main navigation Active Class Add Remove
+    $(".navbar-toggler").on("click", function () {
+        $("header").toggleClass("active");
+    });
+    $(document).on("ready", function () {
+        if ($(window).width() > 991) {
+            $("header").removeClass("active");
+        }
+        $(window).on("resize", function () {
+            if ($(window).width() > 991) {
+                $("header").removeClass("active");
+            }
+        });
+    });
+</script>
+<!-- //MENU-JS -->
+
+<!-- disable body scroll which navbar is in active -->
+<script>
+    $(function () {
+        $('.navbar-toggler').click(function () {
+            $('body').toggleClass('noscroll');
+        })
+    });
+</script>
+<!-- //disable body scroll which navbar is in active -->
+
+<!--bootstrap-->
+<script src="assets/js/bootstrap.min.js"></script>
+<!-- //bootstrap-->
+<!-- //Js scripts -->
 
 </html>
